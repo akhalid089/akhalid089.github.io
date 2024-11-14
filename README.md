@@ -1,1 +1,12 @@
-# akhalid089.github.io
+<!DOCTYPE html>
+<html>
+
+ <head>
+ <title>MTH4000 exercise</title>
+</head>
+
+ <body>
+   Hi 
+</body>
+
+</html>
